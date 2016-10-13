@@ -1,0 +1,1 @@
+cat ALSpredict-* > ALSpredict.jar
